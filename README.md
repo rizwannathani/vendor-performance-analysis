@@ -6,22 +6,7 @@ _Analyzing vendor efficiency and profitability to support strategic purchasing a
 
 > 📄 **Looking for the detailed analysis?** The complete executive findings, charts, and comprehensive metrics are available in the [vendor analysis Report.pdf] file included in this repository.
 
----
 
-## 📌 Table of Contents
-- <a href="#overview">Overview</a>
-- <a href="#business-problem">Business Problem</a>
-- <a href="#dataset--architecture">Dataset & Architecture</a>
-- <a href="#tools--technologies">Tools & Technologies</a>
-- <a href="#project-structure">Project Structure</a>
-- <a href="#data-cleaning--pipeline-optimization">Data Cleaning & Pipeline Optimization</a>
-- <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
-- <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
-- <a href="#how-to-run-this-project">How to Run This Project</a>
-- <a href="#final-recommendations">Final Recommendations</a>
-- <a href="#author--contact">Author & Contact</a>
-
----
 ## 📌 Overview
 
 This project evaluates vendor performance and retail inventory dynamics to drive strategic insights for purchasing, pricing, and inventory optimization. An end-to-end data engineering and statistical pipeline was built to analyze **10,692 unique records** across **119 active vendors**, transforming raw transactional records into clear, data-driven business solutions.
