@@ -127,3 +127,10 @@ Buying in larger sizes directly lowers individual unit costs. Small order bracke
 ### To assess inventory turnover in order to reduce holding costs and improve stock movement efficiency.
 The warehouse network holds a massive capital bottleneck of **\$9.55 Million in unsold, stagnant stock**, with **64.4% concentrated in the top 10 vendors**. **Diageo alone accounts for \$1.40 Million** of this trapped cash, highlighting a storage bottleneck caused by over-ordering items faster than stores can clear them.
 
+
+<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+
+**Rizwan Abdul Razzak**  
+Data Analyst   
+🔗 [LinkedIn](https://www.linkedin.com/in/rizwan-abdul-razzak-ab05aa236/)  
+
